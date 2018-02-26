@@ -44,7 +44,7 @@ function draw(ctx) {
     document.querySelector("#js-save-button").addEventListener("click", () => {
         domtoimage.toBlob(document.getElementById('js-canvas-comic-bubbles-wrapper'))
             .then(function(blob) {
-                window.saveAs(blob, 'my-node.png');
+                window.saveAs(blob, 'yosuke_furukawa_4koma.png');
             });
     });
     canvas.width = canvasSize.width;
