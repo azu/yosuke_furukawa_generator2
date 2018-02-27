@@ -2,6 +2,13 @@
 
 Open <https://azu.github.io/yosuke_furukawa_generator2/>
 
+## Other generator
+
+- <https://azu.github.io/t_wada_generator/>
+- <https://azu.github.io/yosuke_furukawa_generator/>
+- <https://azu.github.io/yosuke_furukawa_generator/index2.html>
+
+
 ## License
 
 This generator use following library and resource.
